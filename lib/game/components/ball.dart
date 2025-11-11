@@ -64,7 +64,7 @@ class Ball extends CircleComponent
   }
   
   // =======================================================
-  // ATIVIDADES PRÁTICA 2: IMPLEMENTAR COLISÕES AQUI
+  // ATIVIDADES PRÁTICA 3: IMPLEMENTAR COLISÕES AQUI
   // =======================================================
 
   @override

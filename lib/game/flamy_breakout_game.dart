@@ -145,7 +145,7 @@ class FlamyBreakoutGame extends FlameGame
     livesText.text = 'Lives: $lives';
     
     if (lives <= 0) {
-      // ATIVIDADE PRÁTICA 3: Implementar lógica de Game Over
+      // ATIVIDADE PRÁTICA 2: Implementar lógica de Game Over
     }
   }
 
